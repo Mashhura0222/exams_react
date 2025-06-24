@@ -1,0 +1,48 @@
+.banner{
+  width: 100%;
+  height: 100vh;
+}
+
+.diagramma {
+  display: flex;
+  align-items: flex-end;
+  gap: 16px;
+  height: 80vh;
+  width: 680px;
+  padding: 20px;
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.box{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bar {
+  width: 35px;
+  background: rgba(111, 78, 255, 0.3);
+  border-radius: 5px 5px 0 0;
+  transition: 0.3s;
+}
+
+.bar:hover {
+  background: #6f4eff;
+  cursor: pointer;
+  transform: scaleY(1.05);
+}
+
+.month {
+  margin-top: 8px;
+  font-size: 14px;
+  color: black;
+}
+.imgs {
+  width: 400px;
+  height: 80vh;
+    display: flex;
+ flex-direction: column;
+ gap: 10px;
+}
