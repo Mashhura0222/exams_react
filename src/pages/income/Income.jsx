@@ -3,7 +3,7 @@ import { CiSearch } from "react-icons/ci";
 import { IoIosArrowDown } from "react-icons/io";
 import imgs from "../../assets/imgs.png";
 import img1 from '../../assets/imgs_1.png'
-import img2 from '../../assets/imgs_2.png'
+import img2 from "../../assets/imgS_2.png"
 
 
 const Income = () => {
