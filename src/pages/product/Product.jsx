@@ -7,7 +7,7 @@ import product_img1 from "../../assets/Group 10 (1).png"
 import product_img2 from "../../assets/Group 10 (2).png"
 const Product = () => {
   return (
-    <div style={{margin:" 20px   80px",boxShadow: "0 0 10px rgba(0, 0, 0, 0.1)",borderRadius:"20px "}}>
+    <div style={{boxShadow: "0 0 10px rgba(0, 0, 0, 0.1)",borderRadius:"20px "}}>
     
           <header style={{ height:"50px", display:"flex" ,alignContent:"center",margin:"auto",justifyContent:"space-between",borderRadius:"10px" ,boxShadow: "0 0 10px rgba(0, 0, 0, 0.1)",padding:"0px 20px",}}>
         <h1 style={{textAlign:"center"}}>Hello Evano 👋🏼,</h1>

@@ -15,7 +15,7 @@ const Sidebar = () => {
   return (
     <div
       style={{
-        width: open? "80px" : "300px",
+        width: open? "80px" : "200px",
        boxShadow: "0 0 10px rgba(0, 0, 0, 0.1)",borderRadius:"20px",
         background: "white",
         transition: "0.3s ease",

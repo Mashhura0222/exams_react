@@ -1,7 +1,7 @@
 import React from "react";
 
 const Promote = () => {
-  return <div>Protome</div>;
+  return <div><h1>Promote</h1></div>;
 };
 
 export default Promote;
